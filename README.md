@@ -1,4 +1,4 @@
-> NOTE: This project is moved to: https://github.com/spring-ai-community/mcp-annotations
+> # NOTE: This project has been moved to the https://github.com/spring-ai-community/mcp-annotations. See you there! This repository is now archived. 
 
 # MCP Annotations
 
