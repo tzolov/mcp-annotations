@@ -1,3 +1,5 @@
+> NOTE: This project is moved to: https://github.com/spring-ai-community/mcp-annotations
+
 # MCP Annotations
 
 The MCP Annotations project provides annotation-based method handling for Model Context Protocol (MCP) servers in Java. This project consists of two main modules:
